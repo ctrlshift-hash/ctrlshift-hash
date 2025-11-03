@@ -98,6 +98,14 @@ Passionate about clean code, performance optimization, and scalable architecture
 - Blockchain/Web3 projects
 - Technical consulting
 
+## 🌟 Open Source & Contributions
+
+All projects are open source and free to use. Feel free to fork, modify, and use them in your own projects. Contributions, suggestions, and improvements are always welcome!
+
+If you find any of these projects useful and would like to support further development, donations are appreciated but never expected:
+
+**Solana:** `CgHmWFZ1PukqhosmP4A7PTf4apJ5YYvpzzFUM77v2h1Y`
+
 ---
 
 **Always building, always learning. Let's create something amazing together.** 🚀
