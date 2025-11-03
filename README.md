@@ -1,8 +1,8 @@
 # Hi, I'm ctrlshift-hash 👋
 
-**Game & Software Developer** | Full-Stack Engineer | Blockchain Builder
+**Full-Stack Developer** | Software Engineer | Blockchain Builder | Game Developer
 
-Versatile developer with expertise spanning game development, software engineering, and blockchain technologies. I build scalable applications, interactive games, and innovative solutions across multiple programming languages and frameworks.
+Full-stack developer with expertise spanning web development, software engineering, blockchain technologies, and game development. I build scalable web applications, RESTful APIs, mobile apps, distributed systems, interactive games, and innovative blockchain solutions across multiple programming languages and frameworks.
 
 ## 🚀 What I Build
 
