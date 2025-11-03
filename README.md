@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Hi, I'm ctrlshift-hash 👋
+=======
+# Hi, Welcome to my Github 👋
+>>>>>>> 1ecc7ba102ea8a47783a424035f244b54d79a6b0
 
 **Game & Software Developer** | Full-Stack Engineer | Blockchain Builder
 
@@ -10,6 +14,7 @@ Versatile developer with expertise spanning game development, software engineeri
 - **Full-Stack Applications** - Scalable web apps, APIs, and software solutions
 - **Blockchain Development** - Solana, Web3, and DeFi applications
 - **System Architecture** - High-performance, maintainable systems
+<<<<<<< HEAD
 - **Machine Learning** - ML-powered trading bots and data analysis
 - **Microservices** - Enterprise-grade distributed systems
 
@@ -24,6 +29,20 @@ Versatile developer with expertise spanning game development, software engineeri
 - **Databases:** PostgreSQL, MongoDB, Redis, Prisma ORM
 - **Game Engines:** Unity, Unreal Engine, Custom C++ engines
 - **ML/AI:** TensorFlow, PyTorch, scikit-learn, Reinforcement Learning
+=======
+
+## 💻 Tech Stack & Languages
+
+**Languages:**
+`JavaScript` `TypeScript` `Python` `C#` `C++` `Solidity` `Rust` `Go` `Java` and more
+
+**Technologies:**
+- **Frontend:** Next.js, React, Vue, Tailwind CSS, WebGL
+- **Backend:** Node.js, Express, FastAPI, GraphQL, REST APIs
+- **Blockchain:** Solana Web3.js, Ethereum, Smart Contracts
+- **Databases:** PostgreSQL, MongoDB, Redis, Prisma ORM
+- **Game Engines:** Unity, Unreal Engine
+>>>>>>> 1ecc7ba102ea8a47783a424035f244b54d79a6b0
 - **DevOps:** Docker, Kubernetes, Vercel, AWS, CI/CD
 - **Tools:** Git, Linux, VS Code, Web3 tools
 
@@ -37,6 +56,7 @@ Versatile developer with expertise spanning game development, software engineeri
 - Live leaderboards & community features
 - [Live Site](https://www.degenhub.io/) | [Project](https://github.com/ctrlshift-hash/DegenHub)
 
+<<<<<<< HEAD
 ## 📦 Open Source Projects
 
 ### Python Projects
@@ -66,6 +86,17 @@ Experienced in developing games from concept to deployment. Working with Unity, 
 ## 🛠️ Software Engineering
 
 Passionate about clean code, performance optimization, and scalable architecture. I design systems that are maintainable, efficient, and built for growth. Experience with microservices, distributed systems, and cloud-native solutions.
+=======
+*Building multiple projects across game development, web applications, APIs, and blockchain solutions.*
+
+## 🎮 Game Development
+
+Experienced in developing games from concept to deployment. Working with Unity, Unreal Engine, and custom engines to create engaging gameplay experiences across multiple platforms.
+
+## 🛠️ Software Engineering
+
+Passionate about clean code, performance optimization, and scalable architecture. I design systems that are maintainable, efficient, and built for growth.
+>>>>>>> 1ecc7ba102ea8a47783a424035f244b54d79a6b0
 
 ## 📊 GitHub Stats
 
@@ -88,7 +119,10 @@ Passionate about clean code, performance optimization, and scalable architecture
 - Emerging game development technologies
 - Cloud-native solutions & microservices
 - AI/ML integration in games and applications
+<<<<<<< HEAD
 - Low-level systems programming
+=======
+>>>>>>> 1ecc7ba102ea8a47783a424035f244b54d79a6b0
 
 ## 🔧 Open to
 
@@ -103,4 +137,7 @@ Passionate about clean code, performance optimization, and scalable architecture
 **Always building, always learning. Let's create something amazing together.** 🚀
 
 *"The best way to predict the future is to build it."*
+<<<<<<< HEAD
 
+=======
+>>>>>>> 1ecc7ba102ea8a47783a424035f244b54d79a6b0
