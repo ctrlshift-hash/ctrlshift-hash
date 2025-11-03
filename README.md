@@ -1,76 +1,82 @@
-# Hi, Welcome to my Github
+# Hi, Welcome to my Github 👋
 
-**Game & Software Developer** | Full-Stack Engineer | Blockchain Enthusiast
+**Game & Software Developer** | Full-Stack Engineer | Blockchain Builder
 
-I'm a versatile developer specializing in game development, software engineering, and modern web technologies. With expertise across multiple programming languages and frameworks, I build scalable applications, interactive games, and cutting-edge blockchain solutions.
+Versatile developer with expertise spanning game development, software engineering, and blockchain technologies. I build scalable applications, interactive games, and innovative solutions across multiple programming languages and frameworks.
 
-## 🚀 What I Do
+## 🚀 What I Build
 
-- **Game Development** - Creating engaging games across multiple platforms
-- **Full-Stack Software Development** - Building robust web applications and APIs
-- **Blockchain Development** - Solana ecosystem and DeFi applications
-- **System Architecture** - Designing scalable, maintainable systems
+- **Game Development** - Multi-platform game development across various genres
+- **Full-Stack Applications** - Scalable web apps, APIs, and software solutions
+- **Blockchain Development** - Solana, Web3, and DeFi applications
+- **System Architecture** - High-performance, maintainable systems
 
 ## 💻 Tech Stack & Languages
 
-I work with a diverse range of technologies and languages:
-
 **Languages:**
-- JavaScript/TypeScript
-- Python
-- C# / C++
-- Solidity
-- Rust
-- And more...
+`JavaScript` `TypeScript` `Python` `C#` `C++` `Solidity` `Rust` `Go` `Java` and more
 
-**Frameworks & Tools:**
-- **Frontend:** Next.js, React, Tailwind CSS
-- **Backend:** Node.js, Express, Prisma
-- **Blockchain:** Solana Web3.js, Web3 development
-- **Databases:** PostgreSQL, MongoDB
-- **Game Engines:** Unity, Unreal (experience varies)
-- **DevOps:** Docker, Vercel, CI/CD
+**Technologies:**
+- **Frontend:** Next.js, React, Vue, Tailwind CSS, WebGL
+- **Backend:** Node.js, Express, FastAPI, GraphQL, REST APIs
+- **Blockchain:** Solana Web3.js, Ethereum, Smart Contracts
+- **Databases:** PostgreSQL, MongoDB, Redis, Prisma ORM
+- **Game Engines:** Unity, Unreal Engine
+- **DevOps:** Docker, Kubernetes, Vercel, AWS, CI/CD
+- **Tools:** Git, Linux, VS Code, Web3 tools
 
 ## 🔥 Featured Projects
 
 ### DegenHub
-**A crypto social media platform built on Solana**
-- Full-stack Next.js application with real-time features
-- Solana wallet integration and SOL tipping
-- Voice chat rooms with advanced moderation
-- Live leaderboards and community features
-- [Website](https://www.degenhub.io/) | [X/Twitter](https://x.com/DegenHub_io)
+**Crypto social media platform on Solana**
+- Full-stack Next.js with real-time features
+- Solana wallet integration & SOL tipping
+- Voice chat with advanced moderation
+- Live leaderboards & community features
+- [Live Site](https://www.degenhub.io/) | [Project](https://github.com/ctrlshift-hash/DegenHub)
 
-*I've built many more projects across different domains - games, web applications, APIs, and blockchain solutions.*
-
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ctrlshift-hash&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ctrlshift-hash&layout=compact&theme=radical&hide_border=true)
+*Building multiple projects across game development, web applications, APIs, and blockchain solutions.*
 
 ## 🎮 Game Development
 
-Experienced in developing games across various genres and platforms. From indie projects to commercial releases, I bring creative concepts to life through solid code and engaging gameplay mechanics.
+Experienced in developing games from concept to deployment. Working with Unity, Unreal Engine, and custom engines to create engaging gameplay experiences across multiple platforms.
 
 ## 🛠️ Software Engineering
 
-Passionate about building clean, efficient code and architecting systems that scale. I focus on best practices, performance optimization, and delivering high-quality software solutions.
+Passionate about clean code, performance optimization, and scalable architecture. I design systems that are maintainable, efficient, and built for growth.
 
-## 🌐 Connect
+## 📊 GitHub Stats
 
-- **Website:** https://www.degenhub.io/
-- **X (Twitter):** [@DegenHub_io](https://x.com/DegenHub_io)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ctrlshift-hash&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ctrlshift-hash&layout=compact&theme=radical&hide_border=true&langs_count=8)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ctrlshift-hash&theme=radical&hide_border=true)
+
+## 🌐 Connect & Collaborate
+
+- **X (Twitter):** [@ctrlshifthash](https://x.com/ctrlshifthash)
 - **GitHub:** [@ctrlshift-hash](https://github.com/ctrlshift-hash)
+- **DegenHub:** [Website](https://www.degenhub.io/) | [Twitter](https://x.com/DegenHub_io)
 
-## 💡 Always Learning
+## 💡 Currently Exploring
 
-The tech world evolves rapidly, and I'm constantly learning new technologies, frameworks, and best practices. Currently exploring:
-- Advanced blockchain architectures
-- Performance optimization techniques
-- Emerging game development tools
-- Cloud-native solutions
+- Advanced blockchain architectures & DeFi protocols
+- Performance optimization & system design
+- Emerging game development technologies
+- Cloud-native solutions & microservices
+- AI/ML integration in games and applications
+
+## 🔧 Open to
+
+- Collaborative projects
+- Open source contributions
+- Game development opportunities
+- Blockchain/Web3 projects
+- Technical consulting
 
 ---
 
-*Building the future, one commit at a time.* 🚀
+**Always building, always learning. Let's create something amazing together.** 🚀
+
+*"The best way to predict the future is to build it."*
